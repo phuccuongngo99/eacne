@@ -1,8 +1,8 @@
 # Eacne - Acne Severity Grading Beta App
 
-<span><img src="resources/app_1.png" width="250"/></span>
-<span><img src="resources/app_2.png" width="250"/></span>
-<span><img src="resources/app_3.gif" width="265"/></span>
+<span><img src="resources/app_1.png" width="240"/></span>
+<span><img src="resources/app_2.png" width="240"/></span>
+<span><img src="resources/app_3.gif" width="255"/></span>
 
 
 ## What's Eacne ?
@@ -29,10 +29,10 @@ Eacne is powered by a lightweight classification neural network
 
 
 ### Our technical report how we design Mobile Acne-severity Grading Network (MAGNet): [(full link)](https://drive.google.com/file/d/16fMoO-TsQ8kdw0IQVeG4sEh6rHxWNLVi/view?usp=sharing)
-
+<img src="resources/technical_report.png" width="500"/>
 
 ### MAGNet Summary Poster: [(full link)](https://drive.google.com/file/d/12eHP8VXvuZFE5Z81SLjhBBwN3pj9_DGv/view?usp=sharing)
-
+<img src="resources/summary_poster.png" width="300"/>
 
 ## Acknowledgement
 Singapore National Skin Center (NSC) [(link)](https://www.nsc.com.sg/Pages/index.aspx) for provision of data, acne annotation guide and research collaboration.
